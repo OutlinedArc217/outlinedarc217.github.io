@@ -7,8 +7,8 @@
             </v-list-item-content>
         </v-list-item>
         <v-card-text class="f-text" style="max-width: 400px;">
-            这里是 FlyingSky (飞天)
-            <br />坐标地球 // 中学生 // 喵呜
+            这里是 OutlinedArc217
+            <br />坐标地球 // 喵呜
             <br /><br />
             喜欢各种折腾，会敲代码，会剪视频，偶尔试着做些音乐。
             虽然没有好的设备，但还是喜欢玩摄影。

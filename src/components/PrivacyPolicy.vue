@@ -6,7 +6,7 @@
 
         <v-card-text class="pb-0 mb-n2">
             <div class="text-h6 mb-2">总则</div>
-            <div class="text-body-2 mb-2">感谢您访问 <a href="https://fsky7.com" style="text-decoration: none;">FlyingSky's
+            <div class="text-body-2 mb-2">感谢您访问 <a href="www.uwu-o3o.us.kg" style="text-decoration: none;">OutlinedArc217's
                     Website</a>（以下简称「本站」）。尽管我们在您浏览的过程中可能会收集信息以改善应用程序和服务质量，但是我们非常重视您的隐私保护和个人信息保护。为了更好的保护您的隐私，我们提供了本隐私政策声明，描述我们收集、处理、存储和使用您的个人信息的方式。
             </div>
             <div class="text-h6 mb-2">关于修订</div>
@@ -15,7 +15,7 @@
                 对于本隐私政策，我们保留在任何时间修改，修订或更新本政策的权利。因此您应该定期访问此网页，检查本政策的任何修改。最后更新日期的变化表示该政策已被更新或编辑，更新或编辑的版本在发布后立即取代先前任何版本。
             </div>
             <div class="text-body-2 mb-2">您的浏览器和运营商等内容分发提供商可能会出于节省带宽的或其他因素缓存我们的页面，在这种情况下倘若导致了您看到的页面内容和实际不符，所以，我们规定以该项目的
-                <a href="https://github.com/FlyingSky-CN/FSky7.Home" style="text-decoration: none;">GitHub
+                <a href="https://github.com/OutlinedArc217/outlinedarc217.github.io" style="text-decoration: none;">GitHub
                     repository</a> 中的更改为准，你也可以在其中检索该条款修改记录。</div>
             <div class="text-h6 mb-2">名词定义</div>
             <div class="text-body-2 mb-2">出于叙述方便的需要，我们在这里对政策中可能涉及到的名词进行定义。</div>

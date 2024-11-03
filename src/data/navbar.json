@@ -3,14 +3,14 @@
         "text": "Home",
         "data": null,
         "icon": "gesture",
-        "link": "https://me.syynu.net/",
+        "link": "http://www.uwu-o3o.us.kg/",
         "color": "blue"
     },
     {
         "text": "Blog",
         "data": null,
         "icon": "earth",
-        "link": "https://me.syynu.net/",
+        "link": "http://www.uwu-o3o.us.kg/blog",
         "color": "green"
     },
     {
@@ -28,7 +28,7 @@
                 "text": "Typecho theme | MDr"
             },
             {
-                "href": "https://me.syynu.net",
+                "href": "http://www.uwu-o3o.us.kg",
                 "text": "OutlinedArc217's Website"
             }
         ],<
@@ -40,7 +40,7 @@
         "text": "Links",
         "data": null,
         "icon": "link-variant",
-        "link": "https://t.me/OutlinedArc217",
+        "link": "https://t.me/Esulified",
         "color": "grey"
     }
 ]

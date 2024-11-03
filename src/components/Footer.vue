@@ -1,7 +1,7 @@
 <template>
     <div class="my-12 px-4 text-caption" style="opacity: 0.75">
         <b>FlyingSky's Website</b>
-        <br />Created by FlyingSky with ♥ since 2017.
+        <br />Created by OutlinedArc217 with ♥ .
         <br />
         <br />&copy; 2017-{{ year() }} FlyingSky.
         <v-dialog v-model="dialog" max-width="768px" :dark="dark">
